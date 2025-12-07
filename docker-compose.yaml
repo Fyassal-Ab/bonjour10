@@ -13,7 +13,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: FF@2002@aa
       MYSQL_DATABASE: resume_db
-      MYSQL_USER: root
+      MYSQL_USER: user
       MYSQL_PASSWORD: FF@2002@aa
     volumes:
       - ./db_data:/var/lib/mysql
