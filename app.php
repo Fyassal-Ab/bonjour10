@@ -1,10 +1,10 @@
 <?php
 // app.php — نسخة مُجمعة لجميع الشاشات
 // ---- إعدادات قاعدة البيانات: عدّلها حسب بيئتك ----
-$db_host = 'localhost';
+$db_host = 'db';
 $db_port = '3306';
 $db_name = 'resume_db';
-$db_user = 'root';
+$db_user = 'user';
 $db_pass = 'FF@2002@aa';
 
 // ---- إعداد عام ----
